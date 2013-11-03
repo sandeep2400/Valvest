@@ -1,0 +1,7 @@
+Create a stock market site that 
+(1) Downloads the stock prices of all the stocks
+(2) Get financial market data from Yahoo and Google and store the value in a document database
+(3) Display a live ticker on the site using D3. 
+(4) Calculate earnings yield and return on capital
+(5) Create a list of companies in descending order of earnings yield ad return on capital. 
+(6) Create a top list of companies. 
